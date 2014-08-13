@@ -1,20 +1,58 @@
-No,Item_type,Receipt_no,hirer_name,Payment_type
-1,Facility,1222,Yeo,Cash
+Fac_ID,Item_type,Receipt_no,hirer_name,Payment_type
+2,Facility,1222,Yeo,Cash
 2,Facility,1223,Koh,Cash
+2,Facility,1224,Tan,Cash
+2,Facility,1225,Daniel,Cash
+2,Facility,1226,Sennes,Cash
+2,Facility,1227,Dennis,Cash
+2,Facility,1228,David,Credit Card
+2,Facility,1229,Yeo,Credit Card
+2,Facility,1230,Koh,Credit Card
+2,Facility,1231,Tan,Credit Card
+2,Ewallet,1232,Daniel,Credit Card
+2,Ewallet,1233,Sennes,Credit Card
+2,Ewallet,1234,Dennis,Credit Card
+2,Ewallet,1235,David,Credit Card
+2,Programme,1236,Kumar,MyCash
+2,Programme,1237,Suresh,MyCash
+2,Programme,1238,David,MyCash
+2,Programme,1239,Kumar,MyCash
+2,Programme,1240,Suresh,MyCash
+3,Facility,1222,Yeo,Cash
+3,Facility,1223,Koh,Cash
 3,Facility,1224,Tan,Cash
-4,Facility,1225,Daniel,Cash
+3,Facility,1225,Daniel,Cash
+3,Facility,1226,Sennes,Cash
+3,Facility,1227,Dennis,Cash
+3,Facility,1228,David,Credit Card
+3,Facility,1229,Yeo,Credit Card
+3,Facility,1230,Koh,Credit Card
+3,Facility,1231,Tan,Credit Card
+3,Ewallet,1232,Daniel,Credit Card
+3,Ewallet,1233,Sennes,Credit Card
+3,Ewallet,1234,Dennis,Credit Card
+3,Ewallet,1235,David,Credit Card
+3,Programme,1236,Kumar,MyCash
+3,Programme,1237,Suresh,MyCash
+3,Programme,1238,David,MyCash
+3,Programme,1239,Kumar,MyCash
+3,Programme,1240,Suresh,MyCash
+5,Facility,1222,Yeo,Cash
+5,Facility,1223,Koh,Cash
+5,Facility,1224,Tan,Cash
+5,Facility,1225,Daniel,Cash
 5,Facility,1226,Sennes,Cash
-6,Facility,1227,Dennis,Cash
-7,Facility,1228,David,Credit Card
-8,Facility,1229,Yeo,Credit Card
-9,Facility,1230,Koh,Credit Card
-10,Facility,1231,Tan,Credit Card
-11,Ewallet,1232,Daniel,Credit Card
-12,Ewallet,1233,Sennes,Credit Card
-13,Ewallet,1234,Dennis,Credit Card
-14,Ewallet,1235,David,Credit Card
-15,Programme,1236,Kumar,MyCash
-16,Programme,1237,Suresh,MyCash
-17,Programme,1238,David,MyCash
-18,Programme,1239,Kumar,MyCash
-19,Programme,1240,Suresh,MyCash
+5,Facility,1227,Dennis,Cash
+5,Facility,1228,David,Credit Card
+5,Facility,1229,Yeo,Credit Card
+5,Facility,1230,Koh,Credit Card
+5,Facility,1231,Tan,Credit Card
+5,Ewallet,1232,Daniel,Credit Card
+5,Ewallet,1233,Sennes,Credit Card
+5,Ewallet,1234,Dennis,Credit Card
+5,Ewallet,1235,David,Credit Card
+5,Programme,1236,Kumar,MyCash
+5,Programme,1237,Suresh,MyCash
+5,Programme,1238,David,MyCash
+5,Programme,1239,Kumar,MyCash
+5,Programme,1240,Suresh,MyCash
